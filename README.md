@@ -1,4 +1,3 @@
-```markdown
 # MERN Network Speed Analyzer (NetDiag)
 
 A professional-grade, full-stack network diagnostic tool designed to measure real-world internet throughput. Unlike standard "browser-only" or loopback tests, NetDiag forces data across the physical network interface to global edge infrastructure, bypassing ISP compression to provide honest, high-fidelity performance metrics.
